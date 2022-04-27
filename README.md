@@ -1,8 +1,8 @@
-## Henlo
-This is a random github profile + I can't create a new email so 
-I had to spend a ton of time privating projects and renaming them.
+# hi, i'm *hwoai*
 
-Doggo owo
+python best language (totally not biased :D)
+
+go here -> https://banhmikepxucxich.github.io/ for more stuff
 
 <!---
 banhmikepxucxich/banhmikepxucxich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
